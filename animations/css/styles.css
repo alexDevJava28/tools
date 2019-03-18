@@ -1,0 +1,9 @@
+.words-wrapper {
+    position: relative;
+    height: 19px;
+    overflow: hidden;
+}
+.words-wrapper .words {
+    position: absolute;
+    top: 0;
+}
